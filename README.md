@@ -48,5 +48,28 @@ Reflection:
 
 Evidence:
 
+![image alt](https://github.com/222582731/DigitalPortfolio/blob/main/personality%20assessment(proof).png?raw=true)
+
+Reflection:
+
+1. Situation:
+   * I was not sure which career path would possible match my personality and I really wanted more clarity.
+  
+2. Task:
+   * I had to assess my personality to better understand what work environment would suit, based on my personality.
+  
+3. Action:
+   * I tried to take a personality test and reflected on the results, also asked for feedback from some of my classmates and friends.
+  
+4. Result:
+   * I discovered that I am an introvert but quit a creative problem-solver.
+  
+
+
+**Create A CV:**
+-
+
+Evidence:
+
 ![image alt]()
 
