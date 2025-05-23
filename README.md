@@ -22,6 +22,31 @@ Reflection:
   
 **Skills and Interests:**
 -
-![image alt]()
 
+Evidence:
+
+
+![image alt](https://github.com/222582731/DigitalPortfolio/blob/main/skills%20&%20interests(proof).png?raw=true)
+
+Reflection:
+
+1. Situation:
+   * I noticed that I was actually enjoying practical activities more than theory, and I was not sure that my skills and interests could be translated into something I actually enjoy.
+  
+2. Tsk:
+   * What was needed of me, was to reflect deeply on my personal strength and interests to figure out what career option would be motivating for me.
+  
+3. Action:
+   * I helped other students with their projects, and ask them what they were thinking of my strngth in the deveopment side.
+
+  4. Result:
+     * This whole process helped realized that I am more interested in the technology such as: Website development.
+    
+
+**Personality Assessment:**
+-
+
+Evidence:
+
+![image alt]()
 
