@@ -94,4 +94,19 @@ Reflection:
 
 Evidence:
 
-![image alt]()
+![image alt](https://github.com/222582731/DigitalPortfolio/blob/main/cv%20submission(proof).png?raw=true)
+
+
+Reflection:
+
+1. Situation:
+   * As part of our career development, we were required to submit a draft CV to our lecturer for feedback.
+
+2. Task:
+   * I needed to created and submit a professional CV that accurately reflect my academics, skills, and career interests.
+  
+3. Action:
+   * My CV included all relevant sections such as education, skills, and experience, then submitted it to my lecturer via GitHub.
+  
+4. Result:
+   * I submitted the CV on time and am currently awaiting feedback. I hope to use the lecturer's input to improve the quality of my CV for future.
