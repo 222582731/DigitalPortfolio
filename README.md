@@ -7,7 +7,7 @@ Evidence:
 ![image alt](https://github.com/222582731/DigitalPortfolio/blob/main/career%20development(proof).png?raw=true)
 
 Reflection:
--
+
 1. Situation:
    * During my first year of university, I was not sure about which career path should I take. Although I was studying Information and Communication Technology, I felt equally drawn to both software development and Data Sciences. I needed to decide which field aligned better with my skills, interests, and long-term goals.
   
@@ -19,5 +19,9 @@ Reflection:
   
 4. Result:
    * This technique helped me in discovering which path I enjoy the most, and I am now working towards becoming one of the best web developers as I have decided to join the FNB App academy, which I beileve will have an input in upgrading my skill.
+  
+**Skills and Interests:**
+-
+![image alt]()
 
 
