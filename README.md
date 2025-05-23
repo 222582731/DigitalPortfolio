@@ -71,5 +71,27 @@ Reflection:
 
 Evidence:
 
-![image alt]()
+![image alt](https://github.com/222582731/DigitalPortfolio/blob/main/create%20cv(proof).png?raw=true)
 
+Reflection:
+
+1. Situation:
+   * As a third year student preparing to apply for internships and entry-level roles, I needed a very professional CV.
+  
+2. Task:
+   * My goal was to create a strong CV that includes my academic background, skills, and some practical projects I particepated in.
+  
+3. Action:
+   * I did some reaserch for CV formats for students, I created a CV which included my education, technical skills(JAVA, HTML, CSS, & SQL) and I also added some of the school projects to showcase my practical experience.
+  
+4. Result:
+   * I now think it's safe for me to say, I have a well structured CV that clearly shows my potential and is ready to use for applying, as I have applied in some of the companies.
+  
+
+
+**CV Submission:**
+-
+
+Evidence:
+
+![image alt]()
